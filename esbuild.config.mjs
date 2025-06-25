@@ -6,4 +6,6 @@ esbuild.build({
   outfile: "main.js",
   platform: "browser",
   format: "cjs",
+  external: ["obsidian"]
+
 }).catch(() => process.exit(1));
