@@ -5,5 +5,5 @@
   "author": "Jonathan Tornberg",
   "description": "Auto-link Bible verses to NRSV passages",
   "main": "main.js",
-  "minAppVersion": "0.12.0"
+  "minAppVersion": "1.0.0"
 }
